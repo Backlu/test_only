@@ -9,7 +9,7 @@
 - API運作流程
     - End to End的運作流程也是我們在設計API時的心血結晶, 一定要在這裡分享給大家. 流程中的每一個方塊都是團隊裡每一位Data Enginnering, Data Scienties的心血結晶, 我們也不吝嗇的將每一部分的Source Code都分享在這個github repo裡了. 想要我的寶藏嗎? 如果想要的話, 那就到Source code去找吧, 我全部都放在那裡. 
 
-<P Align=center><img src="https://github.com/Backlu/test_only/blob/main/end2end.png" width="40%" alt="End2End"></p>
+<P Align=center><img src="https://github.com/Backlu/test_only/blob/main/end2end.png" width="90%" alt="End2End"></p>
 
 
 ## 雲端平台
