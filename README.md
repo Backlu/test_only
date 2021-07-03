@@ -30,7 +30,7 @@
 
 ## Test Log
 - 凡走過必留下痕跡. 每每在slack討論看到有人跪求測試資料就令我覺得痛心. Data絕對不是簡單打個show me the data就能無中生有的, 所以在這裡特別將保存測試資料的Source Code分享給大家. 
-- source code: 請參閱app.py內的save_input_image()與fastapi_logger
+    - source code: 請參閱app.py內的save_input_image()與fastapi_logger
 
 <P Align=center><img src="https://github.com/Backlu/test_only/blob/main/show_me_the_data.png" width="50%" alt="Log"></p>
 
