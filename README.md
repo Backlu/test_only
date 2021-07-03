@@ -5,7 +5,7 @@
 - API架構
     - 最底層是時下最時尚的API模組FasiAPI, 站在巨人的肩膀上一直是我們團隊的成功心法. FastAPI的內部架構就不贅述了, 人生苦短, 我用Python.
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/Backlu/test_only/blob/main/api_framework.png)
 (貼圖: 系統架構)
 
 - API運作流程
